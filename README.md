@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am [Monikrishna Roy](https://www.linkedin.com/in/monikrishnaroy/). I'm currently working as a Software Engineer at Samsung R&D Bangladesh Institute (SRBD). I completed my MS & BS degree from the Department of CSE, Jahangirnagar University which is the only fully residential university and the most beautiful campus in our country.
+
+I worked as a Technical Assistant (TA) at Dept. of CSE, JU for six months and also trained students to solve problems efficiently using algorithms & data structures for three years. It was a great, exciting and challenging experience for me. I always enjoy and love to solve various problems using Algorithms & Data structures. I am participating in various programming contests since 2013.
+
+I am mainly interested in Machine Learning, Natural Language Processing, Data Mining, Big Data, Artificial Intelligence, Cyber Security.
 <!--
 **moni-roy/moni-roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
