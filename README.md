@@ -5,6 +5,8 @@ I am [Monikrishna Roy](https://www.linkedin.com/in/monikrishnaroy/). I am workin
 I worked as a Technical Assistant (TA) at Dept. of CSE, JU for six months and also trained students to solve problems efficiently using algorithms & data structures for three years. It was a great, exciting and challenging experience for me. I always enjoy and love to solve various problems using Algorithms & Data structures. I am participating in various programming contests since 2013.
 
 I am mainly interested in Machine Learning, Natural Language Processing, Data Mining, Big Data, Artificial Intelligence, Cyber Security.
+
+<a href="https://app.daily.dev/mroy"><img src="https://api.daily.dev/devcards/942a53831fde46d2be8924eefc95be78.png?r=slu" width="400" alt="M Roy's Dev Card"/></a>
 <!--
 **moni-roy/moni-roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
