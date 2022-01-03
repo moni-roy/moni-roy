@@ -6,7 +6,12 @@ I worked as a Technical Assistant (TA) at Dept. of CSE, JU for six months and al
 
 I am mainly interested in Machine Learning, Natural Language Processing, Data Mining, Big Data, Artificial Intelligence, Cyber Security.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=moni-roy&theme=dracula" />
+<div>
+  <a href="https://github.com/moni-roy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moni-roy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moni-roy&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
 <a href="https://app.daily.dev/mroy"><img src="https://api.daily.dev/devcards/942a53831fde46d2be8924eefc95be78.png?" width="400" alt="M Roy's Dev Card"/></a>
 <!--
 **moni-roy/moni-roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
